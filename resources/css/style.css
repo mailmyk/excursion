@@ -7,3 +7,9 @@ body {
 h1 {
     color: blue;
 }
+
+header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color: #ffff;
+}
